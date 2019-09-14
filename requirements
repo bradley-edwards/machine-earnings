@@ -1,0 +1,10 @@
+newsapi-python
+virtualenv
+google-cloud-language
+pandas
+json
+argparse
+io
+os
+numpy
+six
