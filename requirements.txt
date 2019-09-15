@@ -1,0 +1,12 @@
+newsapi-python
+virtualenv
+google-cloud-language
+pandas
+json
+plotly
+argparse
+io
+os
+numpy
+six
+matplotlib
